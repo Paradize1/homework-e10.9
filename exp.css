@@ -1,0 +1,18 @@
+
+.exp {
+  width: 100%; /* Full width */
+}
+
+
+
+.skills {
+  text-align: right; /* Right-align text */
+  padding-top: 10px; /* Add top padding */
+  padding-bottom: 10px; /* Add bottom padding */
+  color: white; /* White text color */
+}
+
+.python {width: 80%; background-color: #302ad0;}
+.css {width: 60%; background-color: #2f2e59;}
+.js {width: 50%; background-color: #484699;}
+.html {width: 70%; background-color: #050374;}
